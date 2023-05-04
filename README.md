@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @macroCyborg
 - 👀 I'm a c++ developer
 - 🌱 I’m currently focusing  on the field of streaming media transmission，especially the direction of webrtc.
-- 💞️ Because of my previous work relationship, I am also very interested in computer vision with deep learning.
+- 💞️ I am also very interested in computer vision and deep learning algorithms.
 - 💭 
 - 📫 You can contact me by email macroCyborg@gmail.com
 
