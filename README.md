@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @macroCyborg
-- 👀 I'm a c++ developer
+- 👀 c++ developer
 - 🌱 I’m currently focusing  on the field of streaming media transmission，especially the direction of webrtc.
 - 💞️ I am also very interested in computer vision and deep learning algorithms.
 - 💭 
