@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @macroCyborg
-- 👀 c++ developer
-- 🌱 I’m currently focusing  on the field of streaming media transmission，especially the direction of webrtc.
-- 💞️ I am also very interested in computer vision and deep learning algorithms.
+- 👋 Hi, this is  @macroCyborg
+- 👀 and I'm a C++ development engineer specializing in the field of streaming media transmission.
+- 🌱  My primary focus is on real-time communication using WebRTC technology.
+- 🌱  I'm passionate about creating efficient and reliable solutions for multimedia streaming applications.
+- 💞️ Additionally, I have a keen interest in computer vision and deep learning.
 - 💭 
 - 📫 You can contact me by email macroCyborg@gmail.com
 
